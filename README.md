@@ -1,7 +1,7 @@
 # Inleiding tot het programmeren van Android-tablets met Android Studio (2016)
 
 👉 **Bijbehorende cursus:**
-[Inleiding tot het programmeren van Android-tablets met Android Studio (2016)](https://stahe.github.io/android-aout-2016/)
+[Inleiding tot het programmeren van Android-tablets met Android Studio (2016)](https://stahe.github.io/nl-android-aout-2016/)
 
 ---
 
